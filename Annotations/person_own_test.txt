@@ -1,1 +1,3 @@
 DongHo/danh-ghen.jpg 1
+DongHo/vinh-hoa.jpg 1
+Sculpture/michelangelo-david.jpg 1
